@@ -27,7 +27,7 @@ The car is driven remotely from a computer keyboard. While it moves, the LiDAR c
 | Component | Details |
 |---|---|
 | Microcontroller | Arduino Nano 33 BLE Sense Rev2 |
-| Distance sensor | [LiDAR model] |
+| Distance sensor | RPILIDAR-A1 |
 | Motors / driver | [motor driver + motors] |
 | Chassis | [chassis / wheels] |
 | Power | [battery pack] |
@@ -106,4 +106,4 @@ University of Trento, *Embedded Software for IoT*, A.Y. 2026/2027.
 
 ## License
 
-[MIT / none, choose one]
+MIT
